@@ -18,8 +18,6 @@ https://github.com/RX01/rx-01
     			//console.log('subscribing to event ', eventName);
     			$( document ).on( eventName, fn);
 
-    			return fn;
-
     		}
 
     	}
